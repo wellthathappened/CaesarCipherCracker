@@ -1,7 +1,6 @@
 —-Name: Ian Lewis
 —-Date: 10/7/2017
 —-Course: COP 4020
-—-NID: ia474088
 —-Assignment 4: Haskell Caesar Cipher
 
 import Data.Char
